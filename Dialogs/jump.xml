@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DialogOption>
+    <ID>10</ID>
+    <Caption>You can jump high.</Caption>
+    <Preconditions>
+        <Precondition>Jump</Precondition>
+    </Preconditions>
+    <PlayerTriggers></PlayerTriggers>
+</DialogOption>

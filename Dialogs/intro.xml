@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DialogOption>
+    <ID>0</ID>
+    <Caption>Welcome! I am Mr. Cool and I will help you navigate this place.</Caption>
+    <Preconditions></Preconditions>
+    <PlayerTriggers></PlayerTriggers>
+</DialogOption>

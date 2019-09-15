@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DialogOption>
+    <ID>9</ID>
+    <Caption>Yes! That is why my name is Mr. Cool.</Caption>
+    <Preconditions></Preconditions>
+    <PlayerTriggers>
+        <Trigger>You are cool</Trigger>
+    </PlayerTriggers>
+</DialogOption>

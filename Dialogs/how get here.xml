@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DialogOption>
+    <ID>1</ID>
+    <Caption>I do not know. You just showed up.</Caption>
+    <Preconditions>
+        <Precondition>0</Precondition>
+    </Preconditions>
+    <PlayerTriggers>
+        <Trigger>How did I get here</Trigger>
+    </PlayerTriggers>
+</DialogOption>

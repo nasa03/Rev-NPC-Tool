@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DialogOption>
+    <ID>5</ID>
+    <Caption>I can't seem to remember... I need to think for a bit.</Caption>
+    <Preconditions></Preconditions>
+    <PlayerTriggers></PlayerTriggers>
+</DialogOption>

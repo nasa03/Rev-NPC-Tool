@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DialogOption>
+    <ID>6</ID>
+    <Caption>Sorry, I can't hear you. Can you speak up?</Caption>
+    <Preconditions></Preconditions>
+    <PlayerTriggers></PlayerTriggers>
+</DialogOption>

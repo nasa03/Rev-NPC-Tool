@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DialogOption>
+    <ID>2</ID>
+    <Caption>You can go up this ramp behind me to see the area</Caption>
+    <Preconditions>
+        <Precondition>0</Precondition>
+    </Preconditions>
+    <PlayerTriggers>
+        <Trigger>Where do I go</Trigger>
+    </PlayerTriggers>
+</DialogOption>
